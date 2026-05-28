@@ -1,0 +1,14 @@
+# Capture data + derived outputs (large, often private) — not published.
+data/
+
+# Local agent / editor config
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# OS / misc
+.DS_Store
